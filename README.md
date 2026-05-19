@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Francisco-Saraiva
 - 👀 I’m interested in programming in general
-- 📫 How to reach me: up202007023@edu.fe.up.pt
+- 📫 How to reach me: fnmss03@gmail.com
