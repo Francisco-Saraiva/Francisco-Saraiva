@@ -20,7 +20,7 @@ A developer focused on writing clean, algorithmically efficient code and explori
 - 🛠️ **The Goal:** Leveling up my Data & Backend engineering capabilities by pushing Python and SQL to their absolute limits.
 - 🏆 **SQL Milestones:** - Conquered **100% of the SQL track on HackerRank**.
   - Earned all 3 HackerRank SQL Certificates (**Basic, Intermediate, and Advanced**).
-  - Demolished the **LeetCode SQL 50** track in a 2-day sprint.
+  - Conquered the **LeetCode SQL 50** track in a 2-day sprint.
 - 🐍 **Python Milestones:** - Achieved a **4-Star Developer Rating** on HackerRank.
   - Earned the HackerRank **Python (Basic) Certificate**.
   - Actively solving algorithmic challenges on LeetCode to master data structures and runtime complexity.
